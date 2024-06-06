@@ -29,8 +29,8 @@ This is a simple Todo App API built with Express.js that supports user registrat
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Dinesh3098/todo-app-node.git
-cd todo-app-node
+git clone https://github.com/Dinesh3098/todo-antwalk.git
+cd todo-antwalk
 ```
 
 ### Install Dependencies
